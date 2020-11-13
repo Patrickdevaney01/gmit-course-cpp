@@ -1,3 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int score;
+
+    cout <<"Please enter your Grade (0 - 100)"<<endl;
+    cin >> score;
+
+    if(score == 100)
+        cout << "Congratulations you got a perfect score"<<endl;
+    else if(score >= 90 & score < 100)
         cout << "Congralulations you got an A "<<endl;
     else if(score >= 80 & score < 90)
         cout << "Congralulations you got an B "<<endl;

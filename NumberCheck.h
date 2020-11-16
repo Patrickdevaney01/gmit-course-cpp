@@ -11,10 +11,4 @@ void NumberCheck(int userinput) { //Function to check the user inputs a number b
         cout << "You Fool, You did not enter a number between 1 and 100" <<endl;
     }
 }
-int main(){
-    int userinput;
-    cout << "Please enter a number between 1 and 100" <<endl;
-    cin >> userinput;
 
-        NumberCheck(userinput);
-}

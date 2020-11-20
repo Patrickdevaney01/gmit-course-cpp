@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="AreaOfCircle.h" />
+		<Unit filename="AreaOfRectangle.h" />
+		<Unit filename="CelsiusConversion.h" />
+		<Unit filename="FahrenheitConversion.h" />
+		<Unit filename="FindEvenNumber.h" />
+		<Unit filename="FindOddNumbers.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

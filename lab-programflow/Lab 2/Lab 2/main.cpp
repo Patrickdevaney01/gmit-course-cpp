@@ -2,11 +2,9 @@
 
 using namespace std;
 
-#include "AreaOfCircle.h"
 
-int main()
-{
-    AreaOfCircle(2);
+int main(){
+
     cout << "Hello world!" << endl;
     return 0;
 }

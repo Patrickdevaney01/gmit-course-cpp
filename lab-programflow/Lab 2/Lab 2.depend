@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605903191 source:c:\users\patri\desktop\gmit\gmit-course-cpp\lab-programflow\lab 2\lab 2\main.cpp
+	<iostream>
+	"Function.h"
+
+1605559527 c:\users\patri\desktop\gmit\gmit-course-cpp\lab-programflow\lab 2\lab 2\labinfo.h
+	<iostream>
+
+1605877103 c:\users\patri\desktop\gmit\gmit-course-cpp\lab-programflow\lab 2\lab 2\largest.h
+	<iostream>
+
+1605559527 c:\users\patri\desktop\gmit\gmit-course-cpp\lab-programflow\lab 2\lab 2\numbercheck.h
+	<iostream>
+
+1605903293 c:\users\patri\desktop\gmit\gmit-course-cpp\lab-programflow\lab 2\lab 2\function.h
+	<iostream>
+	<ctime>
+

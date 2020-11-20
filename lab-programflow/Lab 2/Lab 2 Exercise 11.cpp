@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void FindEvenNumbers(int check){
+void FindOddNumbers(int check){
 
                     if(check % 2 == 1){
                     cout <<"The Odd Numbers Between your two inputs = "<< check << endl;
@@ -19,7 +19,7 @@ int num2;
             cin >> num2;
 
                     for(;num1 <= num2; num1++){
-                            FindEvenNumbers(num1);
+                            FindOddNumbers(num1);
                     }
     return 0;
 }

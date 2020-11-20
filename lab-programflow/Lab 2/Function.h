@@ -107,3 +107,40 @@ void TempAndHumidityCheck(float temp,float humidity){
             }
 }
 
+//Function to Print the numbers 5 through 9:
+void PrintNumber(){
+int i=5;
+            while (i < 10){
+                cout << i;
+                cout << endl;
+                    i = i + 1;
+                }
+}
+
+//Function to Find the sum 1 + 2 + 3 + ... + 20
+void SumOfNumbers(){
+int i = 1;
+int sum = 0;
+            while (i <= 20){
+                sum = sum + i;
+                    i = i + 1;
+                }
+                cout << "The sum = " << sum << endl;
+}
+
+// Function to get the Average of a list of grades terminated by -1
+void Grades(){
+    int sum = 0;int count = 0;int grade =0;
+
+                cout << "Enter grade (-1 to end): "; // prompt user for grade
+                cin >> grade; // read grade
+                while (grade != -1){
+                    sum = sum + grade;
+                    count = count + 1;
+                    /* Get next grade */
+                cout << "Enter grade (-1 to end): ";
+                cin >> grade;
+            }
+                if (count > 0)
+                cout << "Average is " << (double) sum / count;
+}

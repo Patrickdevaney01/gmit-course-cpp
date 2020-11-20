@@ -130,8 +130,13 @@ int usernum2;
                 cout <<endl<<"Print 6 Random Numbers"<<endl;
                 RandomNumbers();
 
-
-
+//Exercise 14 program to call 3 functions
+                cout <<endl<<"Print Numbers from 5 to 9"<<endl;
+                PrintNumber();
+                cout <<endl<<"Print sum of numbers 1 to 20"<<endl;
+                SumOfNumbers();
+                cout <<endl<<"Average of all grades entered"<<endl;
+                Grades();
 
     return 0;
 }

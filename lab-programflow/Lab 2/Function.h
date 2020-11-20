@@ -142,5 +142,25 @@ void Grades(){
                 cin >> grade;
             }
                 if (count > 0)
-                cout << "Average is " << (double) sum / count;
+                cout << "Average is " << (double) sum / count<<endl;
+}
+
+//Function to print Finished 10 times using 3 different loops
+void PrintFinished(){
+    int a = 0;int b = 0;
+                    while(a < 3){
+                        cout <<"Finished"<<endl;
+                        a++;
+                    }
+
+                    do{
+                        cout <<"Finished"<<endl;
+                        b++;
+                    }
+                    while(b < 3);
+
+                    for(int i = 0; i < 4; i++){
+                        cout <<"Finished"<<endl;
+                    }
+
 }

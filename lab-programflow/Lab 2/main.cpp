@@ -138,5 +138,8 @@ int usernum2;
                 cout <<endl<<"Average of all grades entered"<<endl;
                 Grades();
 
+//Exercise 15 print Finished 10 times
+                cout <<endl<<"Print Finished 10 times"<<endl;
+                PrintFinished();
     return 0;
 }

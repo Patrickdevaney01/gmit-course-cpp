@@ -100,8 +100,8 @@ lbl2:
             cout << fahrenheit << " Degrees Fahrenheit = "<< FahrenheitConversion(fahrenheit) <<" Degrees celsius"<<endl;
         }
 
-//Exercise 10 Program to Print all the even numbers from 0 - 100
-int range = 100;
+//Exercise 10 Program to Print all the even numbers from 0 - 1000
+int range = 1000;
             cout <<endl<<"Find all the even numbers from 0 to 100"<<endl;
         for(int num = 0 ;num <= range; num++){
             FindEvenNumbers(num);

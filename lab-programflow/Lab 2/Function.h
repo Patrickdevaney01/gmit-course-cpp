@@ -43,8 +43,8 @@ float AreaOfRectangle(float length,float width){
 //Function to find the even numbers
 void FindEvenNumbers(int check){
 
-                    if(check % 2 == 1){
-                    cout <<"The Odd Numbers Between your two inputs = "<< check << endl;
+                    if(check % 2 == 0){
+                    cout <<"The Even Numbers Between your two inputs = "<< check << endl;
                     }
 
 }
@@ -53,6 +53,15 @@ void FindEvenNumbers(int check){
 void FindOddNumbers(int check){
 
                     if(check % 2 == 1){
+                    cout <<"The Odd Numbers = "<< check << endl;
+                    }
+
+}
+
+void FindOddNumbers(float check){
+
+                    int Num1 = check;
+                    if(Num1 % 2 == 1){
                     cout <<"The Odd Numbers = "<< check << endl;
                     }
 

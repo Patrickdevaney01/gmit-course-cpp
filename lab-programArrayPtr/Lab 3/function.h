@@ -8,24 +8,24 @@ void LabInfo() {
  cout << "Lab #3" << endl;
  }
 
-//pass by Value and print numbers in the array and memory location of numbers
+//function to pass by Value and print numbers in the array and memory location of numbers
  void PrintArray(int arraynum[],int Size){
 
             for(int i = 0;i <Size; i++){
-            cout << arraynum[i] <<", "<< &arraynum[i] <<endl;
+            cout <<"Array Value = "<< arraynum[i] <<" Memory location = "<< &arraynum[i] <<endl;
             }
 
  }
 
- //pass Array by Reference and multiply by the scalor
- void PrintArrayRef(int scalor, int *j, int arraysize){
+ //function to pass Array by Reference and multiply by the scalor
+ void PrintArrayRef(int scalor, int *j, int arraysize){ // takes the value of scalor the 1st array number and the array size
         for ( int i = 0 ; i <arraysize; ++i){
-        cout<<"Array Number and Memory location = "<< *j * scalor<<", "<< &j[i] <<endl;
-            j++ ;
+        *j = *j * scalor; // updates the pointer j with new value
+            j++ ; // increments j
         }
  }
 
-//print 2d array in shape of xmas tree
+//function to print 2d array in shape of Xmas tree
 void XmasTree(){
 string array2d[8][11]={{"     X     "},{"    XXX    "},{"   XXXXX   "},
                         {"  XXXXXXX  "},{" XXXXXXXXX "},{"XXXXXXXXXXX"},

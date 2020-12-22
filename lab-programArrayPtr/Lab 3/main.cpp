@@ -21,7 +21,7 @@ lbl1:
     //Checks if the user has entered the correct value between 0 and 100
         if (usernum[i]<0 or usernum[i] >100){
                 cout << "You entered a number above 100 or below 0." <<endl;
-                cout << "Please re-enter the a correct number" << endl;
+                cout << "Please re-enter a correct number" << endl;
         goto lbl1;
         }
     }
@@ -40,7 +40,7 @@ lbl1:
 
     //Lab Task 5
     //pass the value in scalor and the reference of the first number in the array and the array size
-    PrintArrayRef(scalor,&usernum[0],arraysize);
+    ArrayByScalor(scalor,&usernum[0],arraysize);
         cout << "Inputs multiplied by the Scalor Input" <<endl;
         cout << endl;
 

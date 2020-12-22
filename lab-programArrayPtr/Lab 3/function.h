@@ -18,7 +18,7 @@ void LabInfo() {
  }
 
  //function to pass Array by Reference and multiply by the scalor
- void PrintArrayRef(int scalor, int *j, int arraysize){ // takes the value of scalor the 1st array number and the array size
+ void ArrayByScalor(int scalor, int *j, int arraysize){ // takes the value of scalor the 1st array number and the array size
         for ( int i = 0 ; i <arraysize; ++i){
         *j = *j * scalor; // updates the pointer j with new value
             j++ ; // increments j

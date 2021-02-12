@@ -1,8 +1,8 @@
 #include <iostream>
-#include "LabInfo.h"
-#include "LabInfo.cpp"
 
 using namespace std;
+
+#include "LabInfo.h"
 /*
 class LabInfo{
 

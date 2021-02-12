@@ -1,3 +1,21 @@
 # depslib dependency file v1.0
-1613135000 source:c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\labinfo.cpp
+1613160168 source:c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\labinfo.cpp
+	"LabInfo.h"
+
+1613160168 source:c:\users\patri\desktop\lab 4\labinfo.cpp
+	"LabInfo.h"
+
+1613159169 source:c:\users\patri\desktop\lab 4\main.cpp
+	<iostream>
+	"LabInfo.h"
+
+1613160168 c:\users\patri\desktop\lab 4\labinfo.h
+	<iostream>
+
+1613160168 c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\labinfo.h
+	<iostream>
+
+1613159169 source:c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\main.cpp
+	<iostream>
+	"LabInfo.h"
 

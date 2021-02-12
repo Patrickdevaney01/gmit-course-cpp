@@ -1,16 +1,14 @@
-#include <iostream>
 #include "LabInfo.h"
-#include "LabInfo.cpp"
 
-using namespace std;
 
-class LabInfo{
+     void LabInfo::setdate(int D,int M,int Y){
+            Day = D;
+            Month = M;
+            Year = Y;
+    }
 
-   public:
-        string Name, LabId;
-
-   private:
-        int Day, Month ,Year;
-
-};
-
+    void LabInfo::Printinfo(){
+        cout <<Name<<endl;
+        cout <<LabId<<endl;
+        cout <<Day<<":"<<Month<<":"<<Year;
+    }

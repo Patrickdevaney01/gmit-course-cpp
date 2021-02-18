@@ -10,5 +10,5 @@
     void LabInfo::Printinfo(){
         cout <<Name<<endl;
         cout <<LabId<<endl;
-        cout <<Day<<":"<<Month<<":"<<Year;
+        cout <<setw(2)<< setfill('0')<<Day<<":"<<setw(2)<<setfill('0')<<Month<<":"<<setw(4)<<Year;
     }

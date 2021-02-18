@@ -12,10 +12,12 @@
 1613160168 c:\users\patri\desktop\lab 4\labinfo.h
 	<iostream>
 
-1613160168 c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\labinfo.h
+1613666174 c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\labinfo.h
 	<iostream>
+	<iomanip>
 
-1613159169 source:c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\main.cpp
+1613666174 source:c:\users\patri\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-class\lab 4\main.cpp
 	<iostream>
+	<iomanip>
 	"LabInfo.h"
 

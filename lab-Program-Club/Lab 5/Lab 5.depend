@@ -16,3 +16,20 @@
 	"football_club.h"
 	"player.h"
 
+1614346744 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-club\lab 5\football_club.cpp
+	"football_club.h"
+
+1614346744 c:\users\admin\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-club\lab 5\football_club.h
+	<iostream>
+
+1614346744 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-club\lab 5\main.cpp
+	<iostream>
+	"football_club.h"
+	"player.h"
+
+1614344737 c:\users\admin\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-club\lab 5\player.h
+	<iostream>
+
+1614344793 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\gmit-course-cpp\lab-program-club\lab 5\player.cpp
+	"player.h"
+

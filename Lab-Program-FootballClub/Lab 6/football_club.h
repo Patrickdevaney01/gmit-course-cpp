@@ -30,7 +30,6 @@ class FootballClub{
     void addSquadPlayer(Player tempSquad,int squadnumber);
     void FirstTeamPlayers(Player tempTeam,int Teamnumber);
 
-    void readfilelinebyline1();
 
     void printClubInfo();
 

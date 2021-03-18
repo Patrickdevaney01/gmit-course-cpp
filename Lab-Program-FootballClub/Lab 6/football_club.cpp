@@ -53,29 +53,3 @@
         return stripColour;
     }
 
-void FootballClub::readfilelinebyline1(){
-    fstream excel;
-
-excel.open("Club_Members.csv",ios::in);
-int i = 1,j = 1;
-string a, b;
-string line,row;
-
-if (excel.is_open()){
-        cout << "Reading Data from Excel File Club_Members"<<endl<<endl;
-}
-while (getline(excel,row))
- {
-     istringstream Data(row);
-     if (!(Data >> a >> b)) {
-        break;
-     }
-    else{
-     cout << a <<endl;
-    // i++;
-   //  j++;
-        }
-    }
-    excel.close();
-
-}

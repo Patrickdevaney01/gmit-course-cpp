@@ -25,8 +25,6 @@ int main(){
     int SquadSize = 2;
     Player player[SquadSize];
 
-    //Club.readfilelinebyline1();
-
     player[1].setPlayerName("Wayne Rooney");
     player[1].setPosition("Forward");
 

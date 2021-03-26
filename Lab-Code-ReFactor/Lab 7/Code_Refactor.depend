@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1616785849 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616786464 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616760915 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\player.h
+	<iostream>
+
+1616763041 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\player.cpp
+	"player.h"
+
+1615549574 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\src\atest.cpp
+	"atest.h"
+
+1615549574 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\include\atest.h
+
+1616786455 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\football_club.cpp
+	"football_club.h"
+

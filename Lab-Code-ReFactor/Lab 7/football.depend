@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1615554656 source:/home/stephen/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	"football_club.h"
+
+1615554598 /home/stephen/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1614874581 source:/home/stephen/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1615554673 /home/stephen/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1615488141 source:/home/stephen/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1614875536 /home/stephen/Projects/gmit-course-cpp/football/date.h
+
+1615549574 source:/home/stephen/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/stephen/Projects/gmit-course-cpp/football/include/atest.h
+
+1616088719 source:/home/freddy/Projects/gmit-course-cpp/football/football_club.cpp
+	"football_club.h"
+
+1616088706 /home/freddy/Projects/gmit-course-cpp/football/football_club.h
+	<iostream>
+	"player.h"
+
+1616089234 /home/freddy/Projects/gmit-course-cpp/football/player.h
+	<iostream>
+
+1616089661 source:/home/freddy/Projects/gmit-course-cpp/football/player.cpp
+	"player.h"
+
+1615549574 source:/home/freddy/Projects/gmit-course-cpp/football/src/atest.cpp
+	"atest.h"
+
+1615549574 /home/freddy/Projects/gmit-course-cpp/football/include/atest.h
+
+1616089465 source:/home/freddy/Projects/gmit-course-cpp/football/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616089912 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\football_club.cpp
+	"football_club.h"
+
+1616088706 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\football_club.h
+	<iostream>
+	"player.h"
+
+1616089234 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\player.h
+	<iostream>
+
+1616089464 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616089660 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\player.cpp
+	"player.h"
+
+1615549574 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\src\atest.cpp
+	"atest.h"
+
+1615549574 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\football\include\atest.h
+
+1616771975 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\football_club.cpp
+	"football_club.h"
+
+1616771832 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\football_club.h
+	<iostream>
+	"player.h"
+
+1616760915 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\player.h
+	<iostream>
+
+1616772096 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"football_club.h"
+
+1616763041 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\player.cpp
+	"player.h"
+
+1615549574 source:c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\src\atest.cpp
+	"atest.h"
+
+1615549574 c:\users\admin\onedrive - gmit\programming with c++ course\labs\lab 7\lab-code-refactor\code_refactor\include\atest.h
+
